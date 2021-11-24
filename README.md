@@ -6,6 +6,7 @@ CS46B
 Application allows users to click on canvas creating Circles.
 - RGB Color Change
 - Undo and Redo clicks
+- Quit/Exit canvas
 
 
 Application: https://i.imgur.com/VuKTMqC.png
